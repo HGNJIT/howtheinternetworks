@@ -11,6 +11,6 @@ Links:
 <ul>
 AFS
    <li>https://web.njit.edu/~heg2/howtheinternetworks/docs/index.html</li>
-GitHub
+GitHub Pages
     <li>https://hgnjit.github.io/howtheinternetworks/</li>
 </ul>
